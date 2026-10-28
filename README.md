@@ -55,7 +55,7 @@ The project uses an Excel dataset containing 520 rows and 7 columns.
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard](dashboard.pdf)
+![Sales Dashboard](Dashboard.pdf)
 
 ## 🚀 How to Use
 
